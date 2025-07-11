@@ -92,13 +92,6 @@
 
 ---
 
-<p align="center">
-  ✨ Thanks for visiting! I'm open to collaborate, learn, and grow. Let's code something beautiful! 💻🎨
-</p>
-](#) _(Add when ready)_
-
----
-
 ### 🧠 Tech Quote That Inspires Me
 > “Simplicity is the soul of efficiency.” — Austin Freeman
 
