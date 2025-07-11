@@ -83,7 +83,7 @@
 ---
 
 ### 📬 Let's Connect
-- 📧 Email: `harihara.email@example.com`
+- 📧 Email: `hariharakumar2004@gmail.com`
 - 💼 LinkedIn: [(https://www.linkedin.com/in/hariharakumar-chinnasamy-935719310/)](#) _(Add when ready)_
 
 ---
