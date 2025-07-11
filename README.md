@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Hariharakumar_Chinnasamy</h1>
+<h1 align="center">👋 Hey, I'm Hariharakumar</h1>
 
 <p align="center">
   💻 Java Developer & CSS Stylist | Focused on Backend & UI Precision  
