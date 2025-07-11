@@ -42,7 +42,7 @@
 
 ### 📫 Connect with Me
 - 📧 Email: `hariharakumar2004@gmail.com`
-- 💼 LinkedIn: [linkedin.com/in/hariharakumar](https://linkedin.com/in/hariharakumar) _(add this if available)_
+- 💼 LinkedIn: [linkedin.com/in/hariharakumar]((https://www.linkedin.com/in/hariharakumar-chinnasamy-935719310/)) _(add this if available)_
 - 🗂️ Portfolio: Coming Soon!
 
 ---
