@@ -40,7 +40,7 @@
 ---
 
 ### 📬 Let's Connect
-- 📧 Email: `harihara.email@example.com`
+- 📧 Email: `hariharakuamr2004@gamil.com`
 - 💼 LinkedIn: [<h1 align="center">👋 Hey, I'm Hariharakumar</h1>
 
 <p align="center">
