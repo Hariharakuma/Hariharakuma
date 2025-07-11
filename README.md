@@ -56,7 +56,7 @@
 
 ### 📬 Let's Connect
 - 📧 Email: `hariharakumar2004@gmail.com`
-- 💼 LinkedIn: [www.linkedin.com/in/hariharakumar-chinnasamy-935719310/)](#)
+- 💼 LinkedIn: [(https://www.linkedin.com/in/hariharakumar-chinnasamy-935719310/)](#)
 
 ---
 ### 🧠 Quote That Drives Me
