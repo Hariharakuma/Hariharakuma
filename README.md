@@ -41,7 +41,7 @@
 
 ### 📬 Let's Connect
 - 📧 Email: `hariharakuamr2004@gamil.com`
-- 💼 LinkedIn: [<h1 align="center">👋 Hey, I'm Hariharakumar</h1>
+- 💼 LinkedIn: [https://www.linkedin.com/in/hariharakumar-chinnasamy-935719310/]<h1 align="center">👋 Hey, I'm Hariharakumar</h1>
 
 <p align="center">
   💻 Java Developer & CSS Stylist | Focused on Backend & UI Precision  
