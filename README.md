@@ -1,10 +1,9 @@
 <h1 align="center">👋 Hey, I'm Hariharakumar</h1>
 
 <p align="center">
-  💻 Java Developer & CSS Stylist | Focused on Backend & UI Precision  
-  🚀 On a mission to build clean, efficient, and beautiful software  
+  💻 Java Developer in the Making | Self-Taught CSS Designer  
+  🧠 Learning, building, and improving every single day  
 </p>
-
 ---
 
 ### 🌟 About Me
