@@ -1,57 +1,109 @@
-<h1 align="center">👋 Hi, I'm Hariharakumar</h1>
+<h1 align="center">👋 Hey, I'm Hariharakumar_Chinnasamy</h1>
 
 <p align="center">
-  💻 Java Developer | Backend Enthusiast | Tech Explorer ☕  
-  <br>
-  📍 Focused on writing clean, maintainable & scalable code  
+  💻 Java Developer & CSS Stylist | Focused on Backend & UI Precision  
+  🚀 On a mission to build clean, efficient, and beautiful software  
 </p>
 
 ---
 
-### 🔥 About Me
-- 🎓 Passionate about building efficient backend systems using Java
-- 🧠 Currently mastering **Spring Boot**, **Data Structures**, and **Java 17**
-- 🛠️ Love solving problems and debugging complex logic
-- 🎯 Goal: Land a backend developer role in a top-tier company by 2025
-- 📚 I believe in: *Consistency > Motivation*
+### 🌟 About Me
+- 🎯 I'm a developer who builds solid Java logic with pixel-perfect CSS design  
+- 🔍 Currently exploring **OOPs, File Handling**, and **basic Web Styling**  
+- 💡 I believe: *Clean code + Clean UI = Best UX*  
+- 🎓 Learning every day with dedication and a strong career goal  
+- 🧰 My motto: **Write once, style right, run forever!**
 
 ---
 
-### 💼 Tech Stack
+### 🛠️ Tech Skills
 
-#### 👨‍💻 Languages & Frameworks
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+#### ☕ Core
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-#### 🛠️ Tools & Platforms
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+#### 🎨 Styling
+![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
+
+#### 🧰 Tools
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hariharakumar&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
-  <img src="https://streak-stats.demolab.com?user=hariharakumar&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hariharakumar&show_icons=true&theme=radical&hide_border=true" width="47%" />
+  <img src="https://streak-stats.demolab.com?user=hariharakumar&theme=radical&hide_border=true" width="47%" />
 </p>
 
 ---
 
-### 📫 Connect with Me
-- 📧 Email: `hariharakumar2004@gmail.com`
-- 💼 LinkedIn: [linkedin.com/in/hariharakumar]((https://www.linkedin.com/in/hariharakumar-chinnasamy-935719310/)) _(add this if available)_
-- 🗂️ Portfolio: Coming Soon!
+### 📬 Let's Connect
+- 📧 Email: `harihara.email@example.com`
+- 💼 LinkedIn: [<h1 align="center">👋 Hey, I'm Hariharakumar</h1>
+
+<p align="center">
+  💻 Java Developer & CSS Stylist | Focused on Backend & UI Precision  
+  🚀 On a mission to build clean, efficient, and beautiful software  
+</p>
 
 ---
 
+### 🌟 About Me
+- 🎯 I'm a developer who builds solid Java logic with pixel-perfect CSS design  
+- 🔍 Currently exploring **OOPs, File Handling**, and **basic Web Styling**  
+- 💡 I believe: *Clean code + Clean UI = Best UX*  
+- 🎓 Learning every day with dedication and a strong career goal  
+- 🧰 My motto: **Write once, style right, run forever!**
+
+---
+
+### 🛠️ Tech Skills
+
+#### ☕ Core
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+#### 🎨 Styling
+![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
+
+#### 🧰 Tools
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hariharakumar&show_icons=true&theme=radical&hide_border=true" width="47%" />
+  <img src="https://streak-stats.demolab.com?user=hariharakumar&theme=radical&hide_border=true" width="47%" />
+</p>
+
+---
+
+### 📬 Let's Connect
+- 📧 Email: `harihara.email@example.com`
+- 💼 LinkedIn: [(https://www.linkedin.com/in/hariharakumar-chinnasamy-935719310/)](#) _(Add when ready)_
+
+---
 ### 🧠 Quote That Drives Me
 > “First, solve the problem. Then, write the code.” – John Johnson
 
 ---
 
 <p align="center">
-  Thanks for visiting! 😊 Let's connect and build something amazing 🚀
+  ✨ Thanks for visiting! I'm open to collaborate, learn, and grow. Let's code something beautiful! 💻🎨
+</p>
+](#) _(Add when ready)_
+
+---
+
+### 🧠 Tech Quote That Inspires Me
+> “Simplicity is the soul of efficiency.” — Austin Freeman
+
+---
+
+<p align="center">
+  ✨ Thanks for visiting! I'm open to collaborate, learn, and grow. Let's code something beautiful! 💻🎨
 </p>
